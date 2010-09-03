@@ -16,10 +16,10 @@ MANIFEST			This list of files
 META.yml
 README
 t/00-load.t
+t/005_croak.t
+t/006_locales.t
+t/007_edge.t
 t/boilerplate.t
 t/dt_f_strptime/004_locale_defaults.t
-t/dt_f_strptime/005_croak.t
-t/dt_f_strptime/006_locales.t
-t/dt_f_strptime/007_edge.t
 t/pod.t
 t/Strptime.t
